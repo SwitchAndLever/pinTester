@@ -1,0 +1,2 @@
+# pinTester
+Simple sketch which reads all digital and analog pins on an Arduino and outputs the results to the serial monitor. The sketch was made with the Arduino Pro Micro in mind, and may as such need to be edited to suit other Arduino boards with other pin configurations. 
